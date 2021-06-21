@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T21:36:29.068Z" agent="5.0 (Windows)" version="14.8.0" etag="uEfwceu1sQylX4bw9Y-e" type="github"><diagram id="_b4yczjxz6ckv9aSSpgz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-21T21:45:23.124Z" agent="5.0 (Windows)" etag="N_QSfZNMKPoj9QFgl0Yk" version="14.8.0" type="github">
+  <diagram id="_b4yczjxz6ckv9aSSpgz" name="Page-1">
+    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9r3sJTnBNpcCIx0g8lGD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9r3sJTnBNpcCIx0g8lGD-1" target="9r3sJTnBNpcCIx0g8lGD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9r3sJTnBNpcCIx0g8lGD-1" value="LEARNING HUB" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.28" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9r3sJTnBNpcCIx0g8lGD-2" value="LEARNING CENTRE" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.28" y="220" width="225.45" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9r3sJTnBNpcCIx0g8lGD-4" value="SBCPS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.28" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9r3sJTnBNpcCIx0g8lGD-5" value="MBCPS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9r3sJTnBNpcCIx0g8lGD-6" value="L@WW" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9r3sJTnBNpcCIx0g8lGD-7" value="Ethics" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
